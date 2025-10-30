@@ -1,0 +1,20 @@
+
+.AboutCard{
+    display: flex;          
+    justify-content: center; 
+    align-items: center;
+    padding:10px;
+}
+
+.ProfilePhoto{
+    padding: 5px;
+    border-radius: 50%;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+.aboutText{
+    padding: 5px;
+    display: inline-block;
+}

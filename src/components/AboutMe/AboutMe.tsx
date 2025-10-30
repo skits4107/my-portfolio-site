@@ -5,7 +5,7 @@ function AboutMe(){
 
 
     return (
-        <div className="AboutCard">
+        <div className="AboutContainer">
             <img src={PhotoOfme} className="ProfilePhoto"/>
             <p className="aboutText">
                 I am a versitile freelance software developer who can make anything <br></br>

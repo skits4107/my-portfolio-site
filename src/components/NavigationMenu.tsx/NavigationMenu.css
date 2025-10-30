@@ -1,0 +1,33 @@
+.NavContainer{
+    justify-items: right;
+    display: block;
+    position: absolute;       
+    top: 20px;                
+    right: 20px;             
+}
+
+.NavList{
+    list-style-type: none;
+    display: flex;
+    gap: 1rem; 
+}
+
+.NavItem{
+    display: inline;
+}
+
+.NavBtn{
+    border-radius: 8px;
+    background-color: rgb(52, 52, 53);
+    transition: background-color 0.4s ease;
+    outline: none;
+    border-width: 0px;
+}
+
+.NavBtn:hover{
+    background-color: rgb(255,191,0);
+    outline-color: rgb(255,191,0);
+    border-width: 0px;
+}
+
+

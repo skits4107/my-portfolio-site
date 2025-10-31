@@ -13,7 +13,7 @@ function NavigationMenu(){
                     <button className="NavBtn" key="aboutBtn">About</button>
                 </li>
                 <li>
-                    <button className="NavBtn" key="projectsBtn">Projects</button>
+                    <button className="NavBtn" key="contactBtn">Contact</button>
                 </li>
             </ol>
         </div>

@@ -25,6 +25,8 @@
     margin-top: 0px;
     display: inline-block;
     justify-self: center;
+    font-size: 1.1rem; 
+    line-height: 1.6;
 }
 
 .nameHeader{

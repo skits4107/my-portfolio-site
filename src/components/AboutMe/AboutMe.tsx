@@ -10,9 +10,10 @@ function AboutMe(){
             <span>
                 <h3 className="nameHeader">Aaron Weinberger</h3>
                 <p className="aboutText">
-                    I am a versitile freelance software developer who can make anything <br></br>
-                    from minecraft mods to react website pages. I am able to do so much thanks to <br></br>
-                    my many years teaching kids how to code at The Coder School. <br></br>
+                    I am a versitile devleoper building all kinds tools, languages, and apps.<br></br>
+                    Projects I have done include everything from minecraft modding to <br></br>
+                    custom programming langauges to react apps. I am able to do so much thanks <br></br>
+                    to my many years teaching kids coding skills. <br></br>
                 </p>
             </span>
         </div>

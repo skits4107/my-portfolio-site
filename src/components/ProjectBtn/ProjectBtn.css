@@ -1,0 +1,22 @@
+
+.ProjectBtn{
+    border-radius: 8px;
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: antiquewhite;
+    padding: 5px;
+    margin:10px;
+    display: flex;
+}
+
+.ProjectBtnImg{
+    
+}
+
+.ProjectBtnText{
+    font-size: 14px;
+    color: antiquewhite;
+
+}

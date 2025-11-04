@@ -16,9 +16,10 @@
 }
 
 .ProjectBtn:hover{
-    border-color: rgb(19, 176, 176);
+    border-color: rgb(19, 197, 197);
     border-width: 2px;
     transform: scale(1.2);
+    box-shadow: 0 0 6px rgba(43, 189, 215, 0.6);;
 }
 
 

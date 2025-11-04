@@ -25,9 +25,10 @@
 }
 
 .NavBtn:hover{
-    background-color: rgb(255,191,0);
-    outline-color: rgb(255,191,0);
+    background-color: rgb(14, 225, 225);
+    outline-color: rgb(14, 225, 225);
     border-width: 0px;
+    box-shadow: 0 0 10px rgba(52, 152, 219, 0.6);;
 }
 
 

@@ -8,7 +8,7 @@ function AboutMe(){
         <div className="AboutContainer">
             <img src={PhotoOfme} className="ProfilePhoto"/>
             <span>
-                <h3 className="nameHeader">Aaron Weinberger</h3>
+                <h2 className="nameHeader">Aaron Weinberger</h2>
                 <p className="aboutText">
                     I am a devleoper building all kinds tools, languages, and apps.<br></br>
                     Projects I have done include everything from minecraft modding to <br></br>
